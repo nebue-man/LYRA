@@ -1,0 +1,6 @@
+{
+  "name": "LYRA Clothing — Luxury Haute Couture & Ready-to-Wear",
+  "description": "Exclusive luxury clothing brand featuring bespoke tailoring, signature packaging, an elegant interactive lookbook, and a seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
