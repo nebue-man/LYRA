@@ -110,7 +110,7 @@ export function calculateOrderSummary(input: OrderCalculationInput): OrderCalcul
   };
 }
 
-export function formatPrice(amount: number, currency: string = 'USD'): string {
+export function formatPrice(amount: number, currency: string = 'LKR'): string {
   if (currency === 'LKR') {
     return `${amount.toLocaleString('en-US')} LKR`;
   }
