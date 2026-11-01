@@ -30,7 +30,7 @@ export const LOOKBOOK_SCENES: LookbookScene[] = [
     title: 'The Sartorial Duet',
     subtitle: 'Campaign Autumn/Winter — Wear Your Story',
     category: 'Campaign',
-    image: '/src/assets/images/hero_campaign_upscaled.jpeg',
+    image: '/src/assets/images/lookbook.jpeg',
     description: 'An architectural dialogue between light and shadow. Impeccably draped virgin wool flannel juxtaposed against textured travertine pillars.',
     quote: '"Fashion is not merely what we put on; it is the silent architecture of who we become."',
     hotspots: [
