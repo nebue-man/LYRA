@@ -377,7 +377,7 @@ export const PRODUCTS: Product[] = [
     name: 'The Élora Blouse',
     subtitle: 'Double-Faced Loro Piana Cashmere',
     price: 2900,
-    category: 'Women',
+    category: 'Essentials',
     categoryLabel: "Women's Atelier",
     image: '/assets/aistudio/ly9_1.jpeg',
     secondaryImage: '/assets/aistudio/ly9_2.jpeg',
@@ -411,7 +411,7 @@ export const PRODUCTS: Product[] = [
     subtitle: 'Double-Faced Loro Piana Cashmere',
     price: 4600,
     category: 'Men',
-    categoryLabel: "Women's Atelier",
+    categoryLabel: "Men's Atelier",
     image: '/assets/aistudio/ly10_1.jpeg',
     secondaryImage: '/assets/aistudio/ly10_2.jpeg',
     galleryImages: [
@@ -443,7 +443,7 @@ export const PRODUCTS: Product[] = [
     subtitle: 'Double-Faced Loro Piana Cashmere',
     price: 3900,
     category: 'Men',
-    categoryLabel: "Women's Atelier",
+    categoryLabel: "Men's Atelier",
     image: '/assets/aistudio/ly11_1.jpeg',
     secondaryImage: '/assets/aistudio/ly11_2.jpeg',
     galleryImages: [
